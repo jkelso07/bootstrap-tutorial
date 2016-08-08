@@ -1,9 +1,32 @@
 #page-header{
-    background-color: mediumpurple;
-    padding: 30px;
+    background-color: #6f5499;
     margin-bottom: 20px;
 }
 
-#page-header h1, h6{
+#instil-logo{
+    max-height: 200px;
+}
+
+.black{
+    background-color: #141614;
+}
+
+.page-title{
+    font-size: 4.0em;
+}
+
+.content{
+    padding: 40px;
+}
+
+#page-header h1{
     color: #fff;
+}
+
+#page-header h6{
+    color: #cdbfe3;
+}
+
+.margin-bottom{
+    margin-bottom: 20px;
 }
