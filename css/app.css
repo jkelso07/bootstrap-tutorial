@@ -1,6 +1,13 @@
 #page-header{
-    background-color: #6f5499;
     margin-bottom: 20px;
+}
+
+.purple{
+    background-color: #6f5499;
+}
+
+.green{
+    background-color: #2d672d;
 }
 
 #instil-logo{
